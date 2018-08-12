@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534092550905">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534093569621">
   <folder name="css">
-    <file name="site_global.css" crc="4288829372"/>
-    <file name="index.css" crc="4077478631" ref="index"/>
+    <file name="site_global.css" crc="3767473995"/>
+    <file name="index.css" crc="390952740" ref="index"/>
     <file name="iefonts_index.css" crc="3974615827" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -110,12 +110,12 @@
     <file name="nemo-components.jpg" crc="3990218108" ref="index"/>
     <file name="nemo-components_2x.jpg" crc="428039392" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u306_states.png" crc="457119269" ref="index"/>
-    <file name="u306_states_2x.png" crc="205639786" ref="index"/>
-    <file name="u306_states-r.png" crc="4051016079" ref="index"/>
-    <file name="u306_states-r_2x.png" crc="495479771" ref="index"/>
-    <file name="u306_states-m.png" crc="3998635459" ref="index"/>
-    <file name="u306_states-m_2x.png" crc="4265287020" ref="index"/>
+    <file name="u306_states.png" crc="4169816556" ref="index"/>
+    <file name="u306_states_2x.png" crc="291850910" ref="index"/>
+    <file name="u306_states-r.png" crc="3938390228" ref="index"/>
+    <file name="u306_states-r_2x.png" crc="3950704355" ref="index"/>
+    <file name="u306_states-m.png" crc="4095147763" ref="index"/>
+    <file name="u306_states-m_2x.png" crc="196334574" ref="index"/>
     <file name="nemov2-01-u1435-fr.png" crc="4201561107" ref="index"/>
     <file name="off-u1093-fr.png" crc="384261213" ref="index"/>
     <file name="off-u1093-fr_2x.png" crc="3808812363" ref="index"/>
@@ -134,5 +134,5 @@
     <file name="background02 copy 2 - copy2.jpg" crc="162693961" ref="index"/>
     <file name="background02 copy 2 - copy2_2x.jpg" crc="138509776" ref="index"/>
   </folder>
-  <file name="index.html" crc="142922014" seo="true" mt="1534092537042" redirect="true"/>
+  <file name="index.html" crc="463385478" seo="true" mt="1534093553752" redirect="true"/>
 </manifest>
