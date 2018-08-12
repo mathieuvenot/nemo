@@ -37,13 +37,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nemo.github.io/images/email%20white.png</loc>
+    <loc>http://nemo.github.io/images/1637_1637%20-%20mail.png</loc>
     <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nemo.github.io/images/1637_1637%20-%20mail_2x.png</loc>
+    <loc>http://nemo.github.io/images/email%20white.png</loc>
     <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,6 +61,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://nemo.github.io/images/nemo-componentshdpi.png</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nemo.github.io/images/nemo-componentshdpi_2x.png</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://nemo.github.io/images/nemov2-04.png</loc>
     <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,7 +85,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nemo.github.io/images/1637_1637%20-%20mail.png</loc>
+    <loc>http://nemo.github.io/images/1637_1637%20-%20mail_2x.png</loc>
     <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534090473708">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534091233206">
   <folder name="css">
     <file name="site_global.css" crc="4288829372"/>
-    <file name="index.css" crc="4043981122" ref="index"/>
-    <file name="iefonts_index.css" crc="4270657304" ref="index"/>
+    <file name="index.css" crc="257042507" ref="index"/>
+    <file name="iefonts_index.css" crc="3974615827" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,8 +22,8 @@
   </folder>
   <folder name="images">
     <file name="nemo-favicon.ico" crc="318487338" ref="index"/>
-    <file name="nemov2-01-u362-fr.png" crc="3759419642" ref="index"/>
-    <file name="nemov2-01-u362-fr_2x.png" crc="3905007286" ref="index"/>
+    <file name="nemov2-01-u362-fr.png" crc="3760654432" ref="index"/>
+    <file name="nemov2-01-u362-fr_2x.png" crc="74822526" ref="index"/>
     <file name="email white.png" crc="3969897413" seo="true" ref="index"/>
     <file name="email white_2x.png" crc="4121906989" seo="true" ref="index"/>
     <file name="facebook white.png" crc="3915872431" seo="true" ref="index"/>
@@ -56,8 +56,8 @@
     <file name="1637_1637 - mail_2x.png" crc="3976742188" seo="true" ref="index"/>
     <file name="logo-enstabretagne-horiz-rvb.jpg" crc="106048346" seo="true" ref="index"/>
     <file name="logo-enstabretagne-horiz-rvb_2x.jpg" crc="34183445" seo="true" ref="index"/>
-    <file name="nemo-componentshdpi.png" crc="4224913713" ref="index"/>
-    <file name="nemo-componentshdpi_2x.png" crc="3856828840" ref="index"/>
+    <file name="nemo-componentshdpi.png" crc="4146486787" ref="index" seo="true"/>
+    <file name="nemo-componentshdpi_2x.png" crc="3943122767" ref="index" seo="true"/>
     <file name="nemov2-04.png" crc="4252344287" seo="true" ref="index"/>
     <file name="nemov2-04_2x.png" crc="498330519" seo="true" ref="index"/>
     <file name="3_holtrop.png" crc="4185010286" ref="index"/>
@@ -126,13 +126,13 @@
     <file name="background02 copy 2 - copy2 - copy (2).jpg" crc="122829849" ref="index"/>
     <file name="background02 copy 2 - copy2 - copy (2)_2x.jpg" crc="14872549" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u306_states.png" crc="61768167" ref="index"/>
-    <file name="u306_states_2x.png" crc="4031456559" ref="index"/>
-    <file name="u306_states-r.png" crc="95038136" ref="index"/>
-    <file name="u306_states-r_2x.png" crc="485888096" ref="index"/>
-    <file name="u306_states-m.png" crc="271796920" ref="index"/>
-    <file name="u306_states-m_2x.png" crc="219931699" ref="index"/>
+    <file name="u306_states.png" crc="457119269" ref="index"/>
+    <file name="u306_states_2x.png" crc="205639786" ref="index"/>
+    <file name="u306_states-r.png" crc="4051016079" ref="index"/>
+    <file name="u306_states-r_2x.png" crc="495479771" ref="index"/>
+    <file name="u306_states-m.png" crc="3998635459" ref="index"/>
+    <file name="u306_states-m_2x.png" crc="4265287020" ref="index"/>
     <file name="nemov2-01-u1435-fr.png" crc="4201561107" ref="index"/>
   </folder>
-  <file name="index.html" crc="309305965" seo="true" mt="1534090460521" redirect="true"/>
+  <file name="index.html" crc="69677308" seo="true" mt="1534091204371" redirect="true"/>
 </manifest>
