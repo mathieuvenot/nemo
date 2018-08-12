@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534092206073">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534092418336">
   <folder name="css">
     <file name="site_global.css" crc="4288829372"/>
-    <file name="index.css" crc="139898701" ref="index"/>
+    <file name="index.css" crc="4065404499" ref="index"/>
     <file name="iefonts_index.css" crc="3974615827" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -109,8 +109,6 @@
     <file name="nemo-3_savitsky.jpg" crc="3984049348" ref="index"/>
     <file name="nemo-components.jpg" crc="3990218108" ref="index"/>
     <file name="nemo-components_2x.jpg" crc="428039392" ref="index"/>
-    <file name="background02 copy 2 - copy2 - copy (2).jpg" crc="122829849" ref="index"/>
-    <file name="background02 copy 2 - copy2 - copy (2)_2x.jpg" crc="14872549" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u306_states.png" crc="457119269" ref="index"/>
     <file name="u306_states_2x.png" crc="205639786" ref="index"/>
@@ -133,6 +131,8 @@
     <file name="on_rollover-u1093-on-r-fr_2x.png" crc="390772249" ref="index"/>
     <file name="on_mousedown-u1093-on-m-fr.png" crc="4027800533" ref="index"/>
     <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4018601171" ref="index"/>
+    <file name="background02 copy 2 - copy2.jpg" crc="162693961" ref="index"/>
+    <file name="background02 copy 2 - copy2_2x.jpg" crc="138509776" ref="index"/>
   </folder>
-  <file name="index.html" crc="449906769" seo="true" mt="1534092191728" redirect="true"/>
+  <file name="index.html" crc="138437681" seo="true" mt="1534092398212" redirect="true"/>
 </manifest>
