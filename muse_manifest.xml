@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534091690275">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534091752245">
   <folder name="css">
     <file name="site_global.css" crc="4288829372"/>
-    <file name="index.css" crc="3807095051" ref="index"/>
+    <file name="index.css" crc="4009744896" ref="index"/>
     <file name="iefonts_index.css" crc="3974615827" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -134,5 +134,5 @@
     <file name="u306_states-m_2x.png" crc="4265287020" ref="index"/>
     <file name="nemov2-01-u1435-fr.png" crc="4201561107" ref="index"/>
   </folder>
-  <file name="index.html" crc="4168469130" seo="true" mt="1534091670080" redirect="true"/>
+  <file name="index.html" crc="4006519187" seo="true" mt="1534091736712" redirect="true"/>
 </manifest>
