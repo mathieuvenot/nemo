@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534712318531">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534872614469">
   <folder name="css">
-    <file name="site_global.css" crc="3767473995"/>
-    <file name="index.css" crc="441182890" ref="index"/>
-    <file name="iefonts_index.css" crc="3974615827" ref="index"/>
+    <file name="site_global.css" crc="4288829372"/>
+    <file name="index.css" crc="4282110414" ref="index"/>
+    <file name="iefonts_index.css" crc="216060581" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -38,10 +38,6 @@
     <file name="u1182-m_2x.png" crc="43800046" ref="index"/>
     <file name="nemo-1mono.jpg" crc="4104274465" ref="index"/>
     <file name="nemo-1mono_2x.jpg" crc="3848215006" ref="index"/>
-    <file name="1637_1637 - mail.png" crc="4214852457" seo="true" ref="index"/>
-    <file name="1637_1637 - mail_2x.png" crc="3976742188" seo="true" ref="index"/>
-    <file name="logo-enstabretagne-horiz-rvb.jpg" crc="106048346" seo="true" ref="index"/>
-    <file name="logo-enstabretagne-horiz-rvb_2x.jpg" crc="34183445" seo="true" ref="index"/>
     <file name="nemo-componentshdpi.png" crc="4146486787" ref="index" seo="true"/>
     <file name="nemo-componentshdpi_2x.png" crc="3943122767" ref="index" seo="true"/>
     <file name="nemov2-04.png" crc="4252344287" seo="true" ref="index"/>
@@ -149,5 +145,5 @@
     <file name="nemo-4_cherie2.jpg" crc="71193944" ref="index"/>
     <file name="nemo-4_cherie3.jpg" crc="285398512" ref="index"/>
   </folder>
-  <file name="index.html" crc="263339728" seo="true" mt="1534712298288" redirect="true"/>
+  <file name="index.html" crc="3916229480" seo="true" mt="1534872592178" redirect="true"/>
 </manifest>
