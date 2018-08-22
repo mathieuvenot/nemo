@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534872614469">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534931182892">
   <folder name="css">
     <file name="site_global.css" crc="4288829372"/>
-    <file name="index.css" crc="4282110414" ref="index"/>
-    <file name="iefonts_index.css" crc="216060581" ref="index"/>
+    <file name="index.css" crc="264220257" ref="index"/>
+    <file name="iefonts_index.css" crc="424600953" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,10 +36,10 @@
     <file name="u1182-r_2x.png" crc="3779304589" ref="index"/>
     <file name="u1182-m.png" crc="3803192657" ref="index"/>
     <file name="u1182-m_2x.png" crc="43800046" ref="index"/>
-    <file name="nemo-1mono.jpg" crc="4104274465" ref="index"/>
-    <file name="nemo-1mono_2x.jpg" crc="3848215006" ref="index"/>
-    <file name="nemo-componentshdpi.png" crc="4146486787" ref="index" seo="true"/>
-    <file name="nemo-componentshdpi_2x.png" crc="3943122767" ref="index" seo="true"/>
+    <file name="nemo-1mono.jpg" crc="4017020031" ref="index"/>
+    <file name="nemo-1mono_2x.jpg" crc="3933369229" ref="index"/>
+    <file name="nemo-componentshdpi.png" crc="4174362977" ref="index" seo="true"/>
+    <file name="nemo-componentshdpi_2x.png" crc="4059886445" ref="index" seo="true"/>
     <file name="nemov2-04.png" crc="4252344287" seo="true" ref="index"/>
     <file name="nemov2-04_2x.png" crc="498330519" seo="true" ref="index"/>
     <file name="3_holtrop.png" crc="4185010286" ref="index"/>
@@ -50,57 +50,57 @@
     <file name="2_hydrostatics.png" crc="4264679404" ref="index"/>
     <file name="2_hydrostatics_2x.png" crc="4216446861" ref="index"/>
     <file name="nemo-2multi.jpg" crc="4214550338" ref="index"/>
-    <file name="nemo-1mono-u971-fr.png" crc="199953399" ref="index"/>
-    <file name="nemo-1mono-u971-fr_2x.png" crc="4284824430" ref="index"/>
-    <file name="nemo-1mono-u971-r-fr.jpg" crc="3985033789" ref="index"/>
-    <file name="nemo-1mono-u971-r-fr_2x.jpg" crc="3858627008" ref="index"/>
+    <file name="nemo-1mono-u971-fr.png" crc="371830202" ref="index"/>
+    <file name="nemo-1mono-u971-fr_2x.png" crc="3875738666" ref="index"/>
+    <file name="nemo-1mono-u971-r-fr.jpg" crc="284985347" ref="index"/>
+    <file name="nemo-1mono-u971-r-fr_2x.jpg" crc="3841517726" ref="index"/>
     <file name="nemo-2multi-u1474-fr.png" crc="4199600536" ref="index"/>
     <file name="nemo-2multi-u1474-fr_2x.png" crc="3979025191" ref="index"/>
     <file name="nemo-2multi-u1474-r-fr.jpg" crc="4073093272" ref="index"/>
     <file name="nemo-2multi-u1474-r-fr_2x.jpg" crc="4095741688" ref="index"/>
-    <file name="nemo-0_import-u1482-fr.png" crc="293273436" ref="index"/>
-    <file name="nemo-0_import-u1482-fr_2x.png" crc="307395813" ref="index"/>
-    <file name="nemo-0_import-u1482-r-fr.jpg" crc="435888691" ref="index"/>
-    <file name="nemo-0_import-u1482-r-fr_2x.jpg" crc="4130850315" ref="index"/>
-    <file name="nemo-1_section-u1490-fr.png" crc="3764501131" ref="index"/>
-    <file name="nemo-1_section-u1490-fr_2x.png" crc="209689811" ref="index"/>
-    <file name="nemo-1_section-u1490-r-fr.jpg" crc="4129652023" ref="index"/>
-    <file name="nemo-1_section-u1490-r-fr_2x.jpg" crc="177653883" ref="index"/>
-    <file name="nemo-1_section2-u1498-fr.png" crc="4240978557" ref="index"/>
-    <file name="nemo-1_section2-u1498-fr_2x.png" crc="218234164" ref="index"/>
-    <file name="nemo-1_section2-u1498-r-fr.jpg" crc="297953548" ref="index"/>
-    <file name="nemo-1_section2-u1498-r-fr_2x.jpg" crc="276434395" ref="index"/>
-    <file name="nemo-1_crosssection-u1506-fr.png" crc="3967416502" ref="index"/>
-    <file name="nemo-1_crosssection-u1506-fr_2x.png" crc="3966792199" ref="index"/>
-    <file name="nemo-1_crosssection-u1506-r-fr.jpg" crc="40252705" ref="index"/>
-    <file name="nemo-1_crosssection-u1506-r-fr_2x.jpg" crc="3802217446" ref="index"/>
-    <file name="nemo-2_hydrostatics-u1514-fr.png" crc="158701090" ref="index"/>
-    <file name="nemo-2_hydrostatics-u1514-fr_2x.png" crc="3905548663" ref="index"/>
-    <file name="nemo-2_hydrostatics-u1514-r-fr.jpg" crc="4210524239" ref="index"/>
-    <file name="nemo-2_hydrostatics-u1514-r-fr_2x.jpg" crc="503521154" ref="index"/>
-    <file name="nemo-2_hydrostatics2-u1522-fr.png" crc="3999928030" ref="index"/>
-    <file name="nemo-2_hydrostatics2-u1522-fr_2x.png" crc="377385535" ref="index"/>
-    <file name="nemo-2_hydrostatics2-u1522-r-fr.jpg" crc="4218658537" ref="index"/>
-    <file name="nemo-2_hydrostatics2-u1522-r-fr_2x.jpg" crc="3893279111" ref="index"/>
-    <file name="nemo-3_holtrop-u1530-fr.png" crc="80172274" ref="index"/>
-    <file name="nemo-3_holtrop-u1530-fr_2x.png" crc="386932563" ref="index"/>
-    <file name="nemo-3_holtrop-u1530-r-fr.jpg" crc="133542464" ref="index"/>
-    <file name="nemo-3_holtrop-u1530-r-fr_2x.jpg" crc="4252440012" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-fr.png" crc="219321424" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-fr_2x.png" crc="3930641234" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-r-fr.jpg" crc="194324460" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-r-fr_2x.jpg" crc="478926773" ref="index"/>
-    <file name="nemo-1mono2.jpg" crc="3848215006" ref="index"/>
-    <file name="nemo-0_import.jpg" crc="4191919199" ref="index"/>
-    <file name="nemo-1_section.jpg" crc="493426758" ref="index"/>
-    <file name="nemo-1_section2.jpg" crc="117555889" ref="index"/>
-    <file name="nemo-1_crosssection.jpg" crc="3857021450" ref="index"/>
-    <file name="nemo-2_hydrostatics.jpg" crc="458758839" ref="index"/>
-    <file name="nemo-2_hydrostatics2.jpg" crc="58893393" ref="index"/>
-    <file name="nemo-3_holtrop.jpg" crc="357773608" ref="index"/>
-    <file name="nemo-3_savitsky.jpg" crc="3984049348" ref="index"/>
-    <file name="nemo-components.jpg" crc="3990218108" ref="index"/>
-    <file name="nemo-components_2x.jpg" crc="428039392" ref="index"/>
+    <file name="nemo-0_import-u1482-fr.png" crc="3907447477" ref="index"/>
+    <file name="nemo-0_import-u1482-fr_2x.png" crc="3778644603" ref="index"/>
+    <file name="nemo-0_import-u1482-r-fr.jpg" crc="200420448" ref="index"/>
+    <file name="nemo-0_import-u1482-r-fr_2x.jpg" crc="226988349" ref="index"/>
+    <file name="nemo-1_section-u1490-fr.png" crc="3782026577" ref="index"/>
+    <file name="nemo-1_section-u1490-fr_2x.png" crc="208041017" ref="index"/>
+    <file name="nemo-1_section-u1490-r-fr.jpg" crc="366227414" ref="index"/>
+    <file name="nemo-1_section-u1490-r-fr_2x.jpg" crc="455435718" ref="index"/>
+    <file name="nemo-1_section2-u1498-fr.png" crc="4068130239" ref="index"/>
+    <file name="nemo-1_section2-u1498-fr_2x.png" crc="502505814" ref="index"/>
+    <file name="nemo-1_section2-u1498-r-fr.jpg" crc="4078126430" ref="index"/>
+    <file name="nemo-1_section2-u1498-r-fr_2x.jpg" crc="4001295249" ref="index"/>
+    <file name="nemo-1_crosssection-u1506-fr.png" crc="3915022240" ref="index"/>
+    <file name="nemo-1_crosssection-u1506-fr_2x.png" crc="4209659969" ref="index"/>
+    <file name="nemo-1_crosssection-u1506-r-fr.jpg" crc="373110235" ref="index"/>
+    <file name="nemo-1_crosssection-u1506-r-fr_2x.jpg" crc="528540144" ref="index"/>
+    <file name="nemo-2_hydrostatics-u1514-fr.png" crc="27881453" ref="index"/>
+    <file name="nemo-2_hydrostatics-u1514-fr_2x.png" crc="4177988145" ref="index"/>
+    <file name="nemo-2_hydrostatics-u1514-r-fr.jpg" crc="307246322" ref="index"/>
+    <file name="nemo-2_hydrostatics-u1514-r-fr_2x.jpg" crc="4005076971" ref="index"/>
+    <file name="nemo-2_hydrostatics2-u1522-fr.png" crc="26125294" ref="index"/>
+    <file name="nemo-2_hydrostatics2-u1522-fr_2x.png" crc="3888591021" ref="index"/>
+    <file name="nemo-2_hydrostatics2-u1522-r-fr.jpg" crc="291854563" ref="index"/>
+    <file name="nemo-2_hydrostatics2-u1522-r-fr_2x.jpg" crc="4188754522" ref="index"/>
+    <file name="nemo-3_holtrop-u1530-fr.png" crc="3896278066" ref="index"/>
+    <file name="nemo-3_holtrop-u1530-fr_2x.png" crc="4126123090" ref="index"/>
+    <file name="nemo-3_holtrop-u1530-r-fr.jpg" crc="4188229657" ref="index"/>
+    <file name="nemo-3_holtrop-u1530-r-fr_2x.jpg" crc="234260031" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-fr.png" crc="128191069" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-fr_2x.png" crc="93823528" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-r-fr.jpg" crc="4138427653" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-r-fr_2x.jpg" crc="4222517079" ref="index"/>
+    <file name="nemo-1mono2.jpg" crc="3933369229" ref="index"/>
+    <file name="nemo-0_import.jpg" crc="117362086" ref="index"/>
+    <file name="nemo-1_section.jpg" crc="41659023" ref="index"/>
+    <file name="nemo-1_section2.jpg" crc="353704571" ref="index"/>
+    <file name="nemo-1_crosssection.jpg" crc="3776904942" ref="index"/>
+    <file name="nemo-2_hydrostatics.jpg" crc="3920538944" ref="index"/>
+    <file name="nemo-2_hydrostatics2.jpg" crc="4253428234" ref="index"/>
+    <file name="nemo-3_holtrop.jpg" crc="3798716781" ref="index"/>
+    <file name="nemo-3_savitsky.jpg" crc="233672111" ref="index"/>
+    <file name="nemo-components.jpg" crc="295192376" ref="index"/>
+    <file name="nemo-components_2x.jpg" crc="3826335468" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u306_states.png" crc="4169816556" ref="index"/>
     <file name="u306_states_2x.png" crc="291850910" ref="index"/>
@@ -125,25 +125,25 @@
     <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4018601171" ref="index"/>
     <file name="background02 copy 2 - copy2.jpg" crc="162693961" ref="index"/>
     <file name="background02 copy 2 - copy2_2x.jpg" crc="138509776" ref="index"/>
-    <file name="nemo-4_cherie-u1546-fr.png" crc="3845169418" ref="index"/>
-    <file name="nemo-4_cherie-u1546-fr_2x.png" crc="4174686740" ref="index"/>
-    <file name="nemo-4_cherie-u1546-r-fr.jpg" crc="4191994188" ref="index"/>
-    <file name="nemo-4_cherie-u1546-r-fr_2x.jpg" crc="3821293167" ref="index"/>
-    <file name="nemo-4_cherie2-u2925-fr.png" crc="4097387911" ref="index"/>
-    <file name="nemo-4_cherie2-u2925-fr_2x.png" crc="3796767079" ref="index"/>
-    <file name="nemo-4_cherie2-u2925-r-fr.jpg" crc="129903474" ref="index"/>
-    <file name="nemo-4_cherie2-u2925-r-fr_2x.jpg" crc="4134479548" ref="index"/>
-    <file name="nemo-4_cherie3-u2931-fr.png" crc="3767590028" ref="index"/>
-    <file name="nemo-4_cherie3-u2931-fr_2x.png" crc="480262237" ref="index"/>
-    <file name="nemo-4_cherie3-u2931-r-fr.jpg" crc="281369286" ref="index"/>
-    <file name="nemo-4_cherie3-u2931-r-fr_2x.jpg" crc="3766416335" ref="index"/>
-    <file name="nemo-components-u2937-fr.png" crc="433422316" ref="index"/>
-    <file name="nemo-components-u2937-fr_2x.png" crc="46739167" ref="index"/>
-    <file name="nemo-components-u2937-r-fr.jpg" crc="4206946846" ref="index"/>
-    <file name="nemo-components-u2937-r-fr_2x.jpg" crc="394639196" ref="index"/>
-    <file name="nemo-4_cherie.jpg" crc="4250813997" ref="index"/>
-    <file name="nemo-4_cherie2.jpg" crc="71193944" ref="index"/>
-    <file name="nemo-4_cherie3.jpg" crc="285398512" ref="index"/>
+    <file name="nemo-4_cherie-u1546-fr.png" crc="436650361" ref="index"/>
+    <file name="nemo-4_cherie-u1546-fr_2x.png" crc="4053975536" ref="index"/>
+    <file name="nemo-4_cherie-u1546-r-fr.jpg" crc="248533501" ref="index"/>
+    <file name="nemo-4_cherie-u1546-r-fr_2x.jpg" crc="4192043024" ref="index"/>
+    <file name="nemo-4_cherie2-u2925-fr.png" crc="192434005" ref="index"/>
+    <file name="nemo-4_cherie2-u2925-fr_2x.png" crc="474566075" ref="index"/>
+    <file name="nemo-4_cherie2-u2925-r-fr.jpg" crc="179174904" ref="index"/>
+    <file name="nemo-4_cherie2-u2925-r-fr_2x.jpg" crc="3803738145" ref="index"/>
+    <file name="nemo-4_cherie3-u2931-fr.png" crc="426051796" ref="index"/>
+    <file name="nemo-4_cherie3-u2931-fr_2x.png" crc="4102842772" ref="index"/>
+    <file name="nemo-4_cherie3-u2931-r-fr.jpg" crc="4009951312" ref="index"/>
+    <file name="nemo-4_cherie3-u2931-r-fr_2x.jpg" crc="3891740405" ref="index"/>
+    <file name="nemo-components-u2937-fr.png" crc="3830471202" ref="index"/>
+    <file name="nemo-components-u2937-fr_2x.png" crc="42612576" ref="index"/>
+    <file name="nemo-components-u2937-r-fr.jpg" crc="352194734" ref="index"/>
+    <file name="nemo-components-u2937-r-fr_2x.jpg" crc="368230287" ref="index"/>
+    <file name="nemo-4_cherie.jpg" crc="3870329092" ref="index"/>
+    <file name="nemo-4_cherie2.jpg" crc="3969700822" ref="index"/>
+    <file name="nemo-4_cherie3.jpg" crc="4285002328" ref="index"/>
   </folder>
-  <file name="index.html" crc="3916229480" seo="true" mt="1534872592178" redirect="true"/>
+  <file name="index.html" crc="3776704829" seo="true" mt="1534931176708" redirect="true"/>
 </manifest>
