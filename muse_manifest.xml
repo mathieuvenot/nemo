@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534931833464">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534933343357">
   <folder name="css">
     <file name="site_global.css" crc="3767473995"/>
-    <file name="index.css" crc="264220257" ref="index"/>
+    <file name="index.css" crc="197065486" ref="index"/>
     <file name="iefonts_index.css" crc="424600953" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -99,8 +99,6 @@
     <file name="nemo-2_hydrostatics2.jpg" crc="4253428234" ref="index"/>
     <file name="nemo-3_holtrop.jpg" crc="3798716781" ref="index"/>
     <file name="nemo-3_savitsky.jpg" crc="233672111" ref="index"/>
-    <file name="nemo-components.jpg" crc="295192376" ref="index"/>
-    <file name="nemo-components_2x.jpg" crc="3826335468" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u306_states.png" crc="4169816556" ref="index"/>
     <file name="u306_states_2x.png" crc="291850910" ref="index"/>
@@ -137,13 +135,19 @@
     <file name="nemo-4_cherie3-u2931-fr_2x.png" crc="4102842772" ref="index"/>
     <file name="nemo-4_cherie3-u2931-r-fr.jpg" crc="4009951312" ref="index"/>
     <file name="nemo-4_cherie3-u2931-r-fr_2x.jpg" crc="3891740405" ref="index"/>
-    <file name="nemo-components-u2937-fr.png" crc="3830471202" ref="index"/>
-    <file name="nemo-components-u2937-fr_2x.png" crc="42612576" ref="index"/>
-    <file name="nemo-components-u2937-r-fr.jpg" crc="352194734" ref="index"/>
-    <file name="nemo-components-u2937-r-fr_2x.jpg" crc="368230287" ref="index"/>
     <file name="nemo-4_cherie.jpg" crc="3870329092" ref="index"/>
     <file name="nemo-4_cherie2.jpg" crc="3969700822" ref="index"/>
     <file name="nemo-4_cherie3.jpg" crc="4285002328" ref="index"/>
+    <file name="nemo-4_mesh-u2937-fr.png" crc="225004811" ref="index"/>
+    <file name="nemo-4_mesh-u2937-fr_2x.png" crc="80242750" ref="index"/>
+    <file name="nemo-4_mesh-u2937-r-fr.jpg" crc="122203981" ref="index"/>
+    <file name="nemo-4_mesh-u2937-r-fr_2x.jpg" crc="3904219854" ref="index"/>
+    <file name="nemo-5_naca-u3097-fr.png" crc="4144703768" ref="index"/>
+    <file name="nemo-5_naca-u3097-fr_2x.png" crc="276404345" ref="index"/>
+    <file name="nemo-5_naca-u3097-r-fr.jpg" crc="340533054" ref="index"/>
+    <file name="nemo-5_naca-u3097-r-fr_2x.jpg" crc="382430024" ref="index"/>
+    <file name="nemo-4_mesh.jpg" crc="204273497" ref="index"/>
+    <file name="nemo-5_naca.jpg" crc="4245027567" ref="index"/>
   </folder>
-  <file name="index.html" crc="4067379534" seo="true" mt="1534931813670" redirect="true"/>
+  <file name="index.html" crc="4154350566" seo="true" mt="1534933317567" redirect="true"/>
 </manifest>
