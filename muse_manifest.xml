@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1534933343357">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="nemo.github.io" resolutions="1x,2x" timestamp="1535031058694">
   <folder name="css">
     <file name="site_global.css" crc="3767473995"/>
-    <file name="index.css" crc="197065486" ref="index"/>
+    <file name="index.css" crc="4124278268" ref="index"/>
     <file name="iefonts_index.css" crc="424600953" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -86,10 +86,10 @@
     <file name="nemo-3_holtrop-u1530-fr_2x.png" crc="4126123090" ref="index"/>
     <file name="nemo-3_holtrop-u1530-r-fr.jpg" crc="4188229657" ref="index"/>
     <file name="nemo-3_holtrop-u1530-r-fr_2x.jpg" crc="234260031" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-fr.png" crc="128191069" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-fr_2x.png" crc="93823528" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-r-fr.jpg" crc="4138427653" ref="index"/>
-    <file name="nemo-3_savitsky-u1538-r-fr_2x.jpg" crc="4222517079" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-fr.png" crc="313116805" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-fr_2x.png" crc="213503467" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-r-fr.jpg" crc="3878692067" ref="index"/>
+    <file name="nemo-3_savitsky-u1538-r-fr_2x.jpg" crc="4154792052" ref="index"/>
     <file name="nemo-1mono2.jpg" crc="3933369229" ref="index"/>
     <file name="nemo-0_import.jpg" crc="117362086" ref="index"/>
     <file name="nemo-1_section.jpg" crc="41659023" ref="index"/>
@@ -98,7 +98,7 @@
     <file name="nemo-2_hydrostatics.jpg" crc="3920538944" ref="index"/>
     <file name="nemo-2_hydrostatics2.jpg" crc="4253428234" ref="index"/>
     <file name="nemo-3_holtrop.jpg" crc="3798716781" ref="index"/>
-    <file name="nemo-3_savitsky.jpg" crc="233672111" ref="index"/>
+    <file name="nemo-3_savitsky.jpg" crc="3862422512" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="u306_states.png" crc="4169816556" ref="index"/>
     <file name="u306_states_2x.png" crc="291850910" ref="index"/>
@@ -149,5 +149,5 @@
     <file name="nemo-4_mesh.jpg" crc="204273497" ref="index"/>
     <file name="nemo-5_naca.jpg" crc="4245027567" ref="index"/>
   </folder>
-  <file name="index.html" crc="4154350566" seo="true" mt="1534933317567" redirect="true"/>
+  <file name="index.html" crc="491597219" seo="true" mt="1535031045370" redirect="true"/>
 </manifest>
