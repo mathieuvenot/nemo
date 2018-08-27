@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1535374519921">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1535381668111">
   <folder name="css">
     <file name="site_global.css" crc="3767473995"/>
-    <file name="index.css" crc="306241487" ref="index"/>
+    <file name="index.css" crc="4001545971" ref="index"/>
     <file name="iefonts_index.css" crc="123054363" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -149,5 +149,5 @@
     <file name="nemo-4_mesh.jpg" crc="204273497" ref="index"/>
     <file name="nemo-5_naca.jpg" crc="4245027567" ref="index"/>
   </folder>
-  <file name="index.html" crc="57153676" seo="true" mt="1535374500038" redirect="true"/>
+  <file name="index.html" crc="261717310" seo="true" mt="1535381646634" redirect="true"/>
 </manifest>
