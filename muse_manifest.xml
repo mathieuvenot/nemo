@@ -1,35 +1,49 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1535381668111">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1537189875455">
   <folder name="css">
     <file name="site_global.css" crc="3767473995"/>
-    <file name="index.css" crc="4001545971" ref="index"/>
-    <file name="iefonts_index.css" crc="123054363" ref="index"/>
+    <file name="index.css" crc="3873549223" ref="index"/>
+    <file name="iefonts_index.css" crc="3972387773" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="168988563" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
   </folder>
   <folder name="images">
     <file name="nemo-favicon.ico" crc="318487338" ref="index"/>
-    <file name="nemov2-01-u362-fr.png" crc="3760654432" ref="index"/>
-    <file name="nemov2-01-u362-fr_2x.png" crc="74822526" ref="index"/>
+    <file name="nemov2-01-u362-fr.png" crc="240279113" ref="index"/>
+    <file name="nemov2-01-u362-fr_2x.png" crc="3922846984" ref="index"/>
     <file name="email white.png" crc="3969897413" seo="true" ref="index"/>
     <file name="email white_2x.png" crc="4121906989" seo="true" ref="index"/>
     <file name="facebook white.png" crc="3915872431" seo="true" ref="index"/>
     <file name="facebook white_2x.png" crc="4256602744" seo="true" ref="index"/>
     <file name="linkedin white.png" crc="411158826" seo="true" ref="index"/>
     <file name="linkedin white_2x.png" crc="294042000" seo="true" ref="index"/>
+    <file name="off-u1093-fr.png" crc="384261213" ref="index"/>
+    <file name="off-u1093-fr_2x.png" crc="3808812363" ref="index"/>
+    <file name="unavailable-u1093-unavailable-fr.png" crc="3801342524" ref="index"/>
+    <file name="unavailable-u1093-unavailable-fr_2x.png" crc="283719408" ref="index"/>
+    <file name="off_rollover-u1093-off-r-fr.png" crc="4006097000" ref="index"/>
+    <file name="off_rollover-u1093-off-r-fr_2x.png" crc="4203983870" ref="index"/>
+    <file name="off_mousedown-u1093-off-m-fr.png" crc="384261213" ref="index"/>
+    <file name="off_mousedown-u1093-off-m-fr_2x.png" crc="3808812363" ref="index"/>
+    <file name="on-u1093-on-fr.png" crc="4027800533" ref="index"/>
+    <file name="on-u1093-on-fr_2x.png" crc="4018601171" ref="index"/>
+    <file name="on_rollover-u1093-on-r-fr.png" crc="145939060" ref="index"/>
+    <file name="on_rollover-u1093-on-r-fr_2x.png" crc="390772249" ref="index"/>
+    <file name="on_mousedown-u1093-on-m-fr.png" crc="4027800533" ref="index"/>
+    <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4018601171" ref="index"/>
     <file name="u1182.png" crc="3790003747" ref="index"/>
     <file name="u1182_2x.png" crc="225155408" ref="index"/>
     <file name="u1182-r.png" crc="421909847" ref="index"/>
@@ -38,8 +52,8 @@
     <file name="u1182-m_2x.png" crc="43800046" ref="index"/>
     <file name="nemo-1mono.jpg" crc="4017020031" ref="index"/>
     <file name="nemo-1mono_2x.jpg" crc="3933369229" ref="index"/>
-    <file name="nemo-componentshdpi.png" crc="4174362977" ref="index" seo="true"/>
-    <file name="nemo-componentshdpi_2x.png" crc="4059886445" ref="index" seo="true"/>
+    <file name="nemo-componentshdpi.png" crc="4174362977" seo="true" ref="index"/>
+    <file name="nemo-componentshdpi_2x.png" crc="4059886445" seo="true" ref="index"/>
     <file name="nemov2-04.png" crc="4252344287" seo="true" ref="index"/>
     <file name="nemov2-04_2x.png" crc="498330519" seo="true" ref="index"/>
     <file name="3_holtrop.png" crc="4185010286" ref="index"/>
@@ -90,39 +104,6 @@
     <file name="nemo-3_savitsky-u1538-fr_2x.png" crc="213503467" ref="index"/>
     <file name="nemo-3_savitsky-u1538-r-fr.jpg" crc="3878692067" ref="index"/>
     <file name="nemo-3_savitsky-u1538-r-fr_2x.jpg" crc="4154792052" ref="index"/>
-    <file name="nemo-1mono2.jpg" crc="3933369229" ref="index"/>
-    <file name="nemo-0_import.jpg" crc="117362086" ref="index"/>
-    <file name="nemo-1_section.jpg" crc="41659023" ref="index"/>
-    <file name="nemo-1_section2.jpg" crc="353704571" ref="index"/>
-    <file name="nemo-1_crosssection.jpg" crc="3776904942" ref="index"/>
-    <file name="nemo-2_hydrostatics.jpg" crc="3920538944" ref="index"/>
-    <file name="nemo-2_hydrostatics2.jpg" crc="4253428234" ref="index"/>
-    <file name="nemo-3_holtrop.jpg" crc="3798716781" ref="index"/>
-    <file name="nemo-3_savitsky.jpg" crc="3862422512" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u306_states.png" crc="4169816556" ref="index"/>
-    <file name="u306_states_2x.png" crc="291850910" ref="index"/>
-    <file name="u306_states-r.png" crc="3938390228" ref="index"/>
-    <file name="u306_states-r_2x.png" crc="3950704355" ref="index"/>
-    <file name="u306_states-m.png" crc="4095147763" ref="index"/>
-    <file name="u306_states-m_2x.png" crc="196334574" ref="index"/>
-    <file name="nemov2-01-u1435-fr.png" crc="4201561107" ref="index"/>
-    <file name="off-u1093-fr.png" crc="384261213" ref="index"/>
-    <file name="off-u1093-fr_2x.png" crc="3808812363" ref="index"/>
-    <file name="unavailable-u1093-unavailable-fr.png" crc="3801342524" ref="index"/>
-    <file name="unavailable-u1093-unavailable-fr_2x.png" crc="283719408" ref="index"/>
-    <file name="off_rollover-u1093-off-r-fr.png" crc="4006097000" ref="index"/>
-    <file name="off_rollover-u1093-off-r-fr_2x.png" crc="4203983870" ref="index"/>
-    <file name="off_mousedown-u1093-off-m-fr.png" crc="384261213" ref="index"/>
-    <file name="off_mousedown-u1093-off-m-fr_2x.png" crc="3808812363" ref="index"/>
-    <file name="on-u1093-on-fr.png" crc="4027800533" ref="index"/>
-    <file name="on-u1093-on-fr_2x.png" crc="4018601171" ref="index"/>
-    <file name="on_rollover-u1093-on-r-fr.png" crc="145939060" ref="index"/>
-    <file name="on_rollover-u1093-on-r-fr_2x.png" crc="390772249" ref="index"/>
-    <file name="on_mousedown-u1093-on-m-fr.png" crc="4027800533" ref="index"/>
-    <file name="on_mousedown-u1093-on-m-fr_2x.png" crc="4018601171" ref="index"/>
-    <file name="background02 copy 2 - copy2.jpg" crc="162693961" ref="index"/>
-    <file name="background02 copy 2 - copy2_2x.jpg" crc="138509776" ref="index"/>
     <file name="nemo-4_cherie-u1546-fr.png" crc="436650361" ref="index"/>
     <file name="nemo-4_cherie-u1546-fr_2x.png" crc="4053975536" ref="index"/>
     <file name="nemo-4_cherie-u1546-r-fr.jpg" crc="248533501" ref="index"/>
@@ -135,9 +116,6 @@
     <file name="nemo-4_cherie3-u2931-fr_2x.png" crc="4102842772" ref="index"/>
     <file name="nemo-4_cherie3-u2931-r-fr.jpg" crc="4009951312" ref="index"/>
     <file name="nemo-4_cherie3-u2931-r-fr_2x.jpg" crc="3891740405" ref="index"/>
-    <file name="nemo-4_cherie.jpg" crc="3870329092" ref="index"/>
-    <file name="nemo-4_cherie2.jpg" crc="3969700822" ref="index"/>
-    <file name="nemo-4_cherie3.jpg" crc="4285002328" ref="index"/>
     <file name="nemo-4_mesh-u2937-fr.png" crc="225004811" ref="index"/>
     <file name="nemo-4_mesh-u2937-fr_2x.png" crc="80242750" ref="index"/>
     <file name="nemo-4_mesh-u2937-r-fr.jpg" crc="122203981" ref="index"/>
@@ -146,8 +124,30 @@
     <file name="nemo-5_naca-u3097-fr_2x.png" crc="276404345" ref="index"/>
     <file name="nemo-5_naca-u3097-r-fr.jpg" crc="340533054" ref="index"/>
     <file name="nemo-5_naca-u3097-r-fr_2x.jpg" crc="382430024" ref="index"/>
+    <file name="nemo-1mono2.jpg" crc="3933369229" ref="index"/>
+    <file name="nemo-0_import.jpg" crc="117362086" ref="index"/>
+    <file name="nemo-1_section.jpg" crc="41659023" ref="index"/>
+    <file name="nemo-1_section2.jpg" crc="353704571" ref="index"/>
+    <file name="nemo-1_crosssection.jpg" crc="3776904942" ref="index"/>
+    <file name="nemo-2_hydrostatics.jpg" crc="3920538944" ref="index"/>
+    <file name="nemo-2_hydrostatics2.jpg" crc="4253428234" ref="index"/>
+    <file name="nemo-3_holtrop.jpg" crc="3798716781" ref="index"/>
+    <file name="nemo-3_savitsky.jpg" crc="3862422512" ref="index"/>
+    <file name="nemo-4_cherie.jpg" crc="3870329092" ref="index"/>
+    <file name="nemo-4_cherie2.jpg" crc="3969700822" ref="index"/>
+    <file name="nemo-4_cherie3.jpg" crc="4285002328" ref="index"/>
     <file name="nemo-4_mesh.jpg" crc="204273497" ref="index"/>
     <file name="nemo-5_naca.jpg" crc="4245027567" ref="index"/>
+    <file name="background02 copy 2 - copy2.jpg" crc="162693961" ref="index"/>
+    <file name="background02 copy 2 - copy2_2x.jpg" crc="138509776" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u306_states.png" crc="499586355" ref="index"/>
+    <file name="u306_states_2x.png" crc="4258664496" ref="index"/>
+    <file name="u306_states-r.png" crc="4131567760" ref="index"/>
+    <file name="u306_states-r_2x.png" crc="110883322" ref="index"/>
+    <file name="u306_states-m.png" crc="174052297" ref="index"/>
+    <file name="u306_states-m_2x.png" crc="362604777" ref="index"/>
+    <file name="nemov2-01-u1435-fr.png" crc="4201561107" ref="index"/>
   </folder>
-  <file name="index.html" crc="261717310" seo="true" mt="1535381646634" redirect="true"/>
+  <file name="index.html" crc="268476577" seo="true" mt="1537189853301" redirect="true"/>
 </manifest>
