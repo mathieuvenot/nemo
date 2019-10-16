@@ -2,67 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/nemo/index.html</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/email%20white_2x.png</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/facebook%20white.png</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/facebook%20white_2x.png</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/linkedin%20white.png</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/email%20white.png</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/nemo-componentshdpi.png</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/nemo-componentshdpi_2x.png</loc>
-    <lastmod>2018-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mathieuvenot.com/nemo/images/nemov2-04.png</loc>
-    <lastmod>2018-10-16</lastmod>
+    <lastmod>2019-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mathieuvenot.com/nemo/images/nemov2-04_2x.png</loc>
-    <lastmod>2018-10-16</lastmod>
+    <lastmod>2019-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mathieuvenot.com/nemo/images/linkedin%20white_2x.png</loc>
-    <lastmod>2018-10-16</lastmod>
+    <loc>http://mathieuvenot.com/nemo/images/nemov2-01940x789.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/nemov2-01940x789_2x.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/email%20white33x27.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/email%20white33x27_2x.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/facebook%20white33x27.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/facebook%20white33x27_2x.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/23931.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/nemov2-04.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/linkedin%20white33x27.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/linkedin%20white33x27_2x.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/nemo.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/gh.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/gh_2x.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/rh.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/rh_2x.png</loc>
+    <lastmod>2019-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mathieuvenot.com/nemo/images/23931_2x.png</loc>
+    <lastmod>2019-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
