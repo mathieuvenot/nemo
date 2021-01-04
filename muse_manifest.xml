@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1609152303826">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1609783451342">
   <folder name="css">
-    <file name="site_global.css" crc="510654809"/>
-    <file name="index.css" crc="3811216731" ref="index"/>
-    <file name="iefonts_index.css" crc="4118714543" ref="index"/>
+    <file name="site_global.css" crc="4209277074"/>
+    <file name="index.css" crc="444921890" ref="index"/>
+    <file name="iefonts_index.css" crc="513302530" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="eula-gtcs.pdf" crc="4243063475" seo="true" mt="1607974396000"/>
@@ -304,12 +304,6 @@
     <file name="n_license_2x.png" crc="4291038920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="n-license.jpg" crc="4228504763" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="n-license_2x.jpg" crc="201143854" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2018-09-26.jpg" crc="533708000" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -343,5 +337,5 @@
     <file name="nemov2-01-u3565.png" crc="4124970799" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="178268843" ref="index"/>
   </folder>
-  <file name="index.html" crc="54363849" seo="true" mt="1609152277217" redirect="true"/>
+  <file name="index.html" crc="3879478182" seo="true" mt="1609783429964" redirect="true"/>
 </manifest>
