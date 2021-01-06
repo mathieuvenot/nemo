@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1609783451342">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1609922521230">
   <folder name="css">
-    <file name="site_global.css" crc="4209277074"/>
-    <file name="index.css" crc="444921890" ref="index"/>
+    <file name="site_global.css" crc="510654809"/>
+    <file name="index.css" crc="4284589283" ref="index"/>
     <file name="iefonts_index.css" crc="513302530" ref="index"/>
   </folder>
   <folder name="assets">
@@ -337,5 +337,5 @@
     <file name="nemov2-01-u3565.png" crc="4124970799" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="178268843" ref="index"/>
   </folder>
-  <file name="index.html" crc="3879478182" seo="true" mt="1609783429964" redirect="true"/>
+  <file name="index.html" crc="70069328" seo="true" mt="1609922491969" redirect="true"/>
 </manifest>
