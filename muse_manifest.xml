@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1609922521230">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1610115874786">
   <folder name="css">
     <file name="site_global.css" crc="510654809"/>
-    <file name="index.css" crc="4284589283" ref="index"/>
-    <file name="iefonts_index.css" crc="513302530" ref="index"/>
+    <file name="index.css" crc="3795545299" ref="index"/>
+    <file name="iefonts_index.css" crc="3778862677" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="eula-gtcs.pdf" crc="4243063475" seo="true" mt="1607974396000"/>
@@ -337,5 +337,5 @@
     <file name="nemov2-01-u3565.png" crc="4124970799" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="178268843" ref="index"/>
   </folder>
-  <file name="index.html" crc="70069328" seo="true" mt="1609922491969" redirect="true"/>
+  <file name="index.html" crc="4095287310" seo="true" mt="1610115830950" redirect="true"/>
 </manifest>
