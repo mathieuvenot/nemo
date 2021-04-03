@@ -19,8 +19,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/nemo-favicon.ico?crc=318487338"/>
   <title>Nemo</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=510654809"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4152433595" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4209277074"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3836439406" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3869102330"/>
@@ -44,12 +44,39 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
   gtag('config', 'UA-42443207-3');
 </script>
+  <!--HTML Widget code-->
+  
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+<script>
+jQuery(document).ready(function($) {  
+
+// site preloader -- also uncomment the div in the header and the css style for #preloader
+$(window).load(function(){
+	$('#preloader').fadeOut('slow',function(){$(this).remove();});
+});
+
+});
+</script>
+
+<style>
+.js div#preloader { position: fixed; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: #FFFFFF url('assets/loading.gif') no-repeat center center; }
+</style>
+
  </head>
  <body>
 
+  <!--HTML Widget code-->
+  
+<div id="preloader"></div>
+
+  
   <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="ppu3524"><!-- column -->
-    <div class="clearfix colelem" id="pu3524"><!-- group -->
+   <div class="clearfix grpelem" id="ppu5647"><!-- column -->
+    <div class="clearfix colelem" id="pu5647"><!-- group -->
+     <div class="size_fixed grpelem" id="u5647"><!-- custom html -->
+      
+            
+     </div>
      <div class="clip_frame grpelem" id="u3524"><!-- image -->
       <img class="block" id="u3524_img" src="images/nemov2-01940x789.png?crc=3841495735" data-hidpi-src="images/nemov2-01940x789_2x.png?crc=348803747" alt="" width="940" height="789"/>
      </div>
