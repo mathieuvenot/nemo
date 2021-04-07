@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1617447332861">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1617801939208">
   <folder name="css">
     <file name="site_global.css" crc="4209277074"/>
-    <file name="index.css" crc="4228116237" ref="index"/>
+    <file name="index.css" crc="3930342345" ref="index"/>
     <file name="iefonts_index.css" crc="3869102330" ref="index"/>
   </folder>
   <folder name="assets">
@@ -304,12 +304,6 @@
     <file name="n_license_2x.png" crc="4291038920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2018-09-26.jpg" crc="533708000" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2018-09-26_2x.jpg" crc="427395833" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u4430.png" crc="51491121" ref="index"/>
     <file name="u4430_2x.png" crc="3805954323" ref="index"/>
     <file name="u4430-r.png" crc="167199301" ref="index"/>
@@ -336,6 +330,9 @@
     <file name="u4450-m_2x.png" crc="54018364" ref="index"/>
     <file name="nemov2-01-u3565.png" crc="4124970799" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="178268843" ref="index"/>
+    <file name="2018-09-26 - web-crop-u5667.jpg" crc="3820554546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="449542702" seo="true" mt="1617447307284" redirect="true"/>
+  <file name="index.html" crc="4078889674" seo="true" mt="1617801879575" redirect="true"/>
 </manifest>
