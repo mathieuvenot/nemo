@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1619025561841">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1641935327542">
   <folder name="css">
-    <file name="site_global.css" crc="4209277074"/>
-    <file name="index.css" crc="3930342345" ref="index"/>
-    <file name="iefonts_index.css" crc="3869102330" ref="index"/>
+    <file name="site_global.css" crc="79963968"/>
+    <file name="index.css" crc="3839836740" ref="index"/>
+    <file name="iefonts_index.css" crc="215079709" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="eula-gtcs.pdf" crc="4243063475" seo="true" mt="1607974396000"/>
@@ -168,14 +168,14 @@
     <file name="nemo-3cover-u2937-fr_2x.png" crc="186615216" ref="index"/>
     <file name="nemo-3cover-u2937-r-fr.jpg" crc="4138208994" ref="index"/>
     <file name="nemo-3cover-u2937-r-fr_2x.jpg" crc="175851635" ref="index"/>
-    <file name="d-keel-u3725-fr.png" crc="412056164" ref="index"/>
-    <file name="d-keel-u3725-fr_2x.png" crc="4008670493" ref="index"/>
-    <file name="d-keel-u3725-r-fr.jpg" crc="403714027" ref="index"/>
-    <file name="d-keel-u3725-r-fr_2x.jpg" crc="106254087" ref="index"/>
-    <file name="d-foil-u3739-fr.png" crc="453081140" ref="index"/>
-    <file name="d-foil-u3739-fr_2x.png" crc="3797796285" ref="index"/>
-    <file name="d-foil-u3739-r-fr.jpg" crc="206022831" ref="index"/>
-    <file name="d-foil-u3739-r-fr_2x.jpg" crc="3797062562" ref="index"/>
+    <file name="d-keel-u3725-fr.png" crc="17261950" ref="index"/>
+    <file name="d-keel-u3725-fr_2x.png" crc="489384760" ref="index"/>
+    <file name="d-keel-u3725-r-fr.jpg" crc="4232102477" ref="index"/>
+    <file name="d-keel-u3725-r-fr_2x.jpg" crc="254830692" ref="index"/>
+    <file name="d-foil-u3739-fr.png" crc="4170980628" ref="index"/>
+    <file name="d-foil-u3739-fr_2x.png" crc="404512986" ref="index"/>
+    <file name="d-foil-u3739-r-fr.jpg" crc="4040842076" ref="index"/>
+    <file name="d-foil-u3739-r-fr_2x.jpg" crc="3951440537" ref="index"/>
     <file name="d-propeller-u3745-fr.png" crc="4216258423" ref="index"/>
     <file name="d-propeller-u3745-fr_2x.png" crc="3882345322" ref="index"/>
     <file name="d-propeller-u3745-r-fr.jpg" crc="442491097" ref="index"/>
@@ -196,10 +196,10 @@
     <file name="5-weight-u5499-fr_2x.png" crc="337972259" ref="index"/>
     <file name="5-weight-u5499-r-fr.jpg" crc="4012203637" ref="index"/>
     <file name="5-weight-u5499-r-fr_2x.jpg" crc="421627010" ref="index"/>
-    <file name="nemo-u5505-fr.png" crc="4018339430" ref="index"/>
-    <file name="nemo-u5505-fr_2x.png" crc="4179837184" ref="index"/>
-    <file name="nemo-u5505-r-fr.jpg" crc="340324647" ref="index"/>
-    <file name="nemo-u5505-r-fr_2x.jpg" crc="181312269" ref="index"/>
+    <file name="nemo-u5505-fr.png" crc="4008400556" ref="index"/>
+    <file name="nemo-u5505-fr_2x.png" crc="146416687" ref="index"/>
+    <file name="nemo-u5505-r-fr.jpg" crc="3766667858" ref="index"/>
+    <file name="nemo-u5505-r-fr_2x.jpg" crc="185878047" ref="index"/>
     <file name="nemo-1cover.jpg" crc="4070346493" ref="index"/>
     <file name="nemo-1cover_2x.jpg" crc="389416588" ref="index"/>
     <file name="nemo-2cover.jpg" crc="3915960935" ref="index"/>
@@ -239,10 +239,18 @@
     <file name="d-sail_2x.jpg" crc="4258339902" ref="index"/>
     <file name="nemo-3cover.jpg" crc="3908021525" ref="index"/>
     <file name="nemo-3cover_2x.jpg" crc="4151842939" ref="index"/>
-    <file name="d-keel.jpg" crc="3961294661" ref="index"/>
-    <file name="d-keel_2x.jpg" crc="4171858232" ref="index"/>
-    <file name="d-foil.jpg" crc="3878100758" ref="index"/>
-    <file name="d-foil_2x.jpg" crc="3945402116" ref="index"/>
+    <file name="d-keel.jpg" crc="318770158" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d-keel_2x.jpg" crc="176616528" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d-foil.jpg" crc="502911031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d-foil_2x.jpg" crc="4270017623" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="d-propeller.jpg" crc="3791682686" ref="index"/>
     <file name="d-propeller_2x.jpg" crc="392241565" ref="index"/>
     <file name="3-nomenclature.jpg" crc="3920408002" ref="index">
@@ -269,11 +277,8 @@
     <file name="5-weight_2x.jpg" crc="3802592678" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nemo-u5508-fr.jpg" crc="3896229497" ref="index"/>
-    <file name="nemo-u5508-fr_2x.jpg" crc="345080443" ref="index"/>
-    <file name="toolbar-v2.png" crc="4148223252" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="nemo-u5508-fr.jpg" crc="4073984132" ref="index"/>
+    <file name="nemo-u5508-fr_2x.jpg" crc="142107794" ref="index"/>
     <file name="nemov2-04.png" crc="4252344287" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -330,9 +335,12 @@
     <file name="u4450-m_2x.png" crc="54018364" ref="index"/>
     <file name="nemov2-01-u3565.png" crc="4124970799" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="178268843" ref="index"/>
-    <file name="2018-09-26 - web-crop-u5667.jpg" crc="3820554546" seo="true" ref="index">
+    <file name="2018-09-26 - web-crop-u5667.jpg" crc="4077763888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toolbar-v3.png" crc="3865987050" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4078889674" seo="true" mt="1617801879575" redirect="true"/>
+  <file name="index.html" crc="4248835341" seo="true" mt="1641935295384" redirect="true"/>
 </manifest>
