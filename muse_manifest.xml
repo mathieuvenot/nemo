@@ -1,11 +1,21 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1641935327542">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1667506934716">
   <folder name="css">
-    <file name="site_global.css" crc="79963968"/>
-    <file name="index.css" crc="3839836740" ref="index"/>
-    <file name="iefonts_index.css" crc="215079709" ref="index"/>
+    <file name="site_global.css" crc="4273498017"/>
+    <file name="index.css" crc="4153030724" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="quattrocento-sans-v18-latin-700.woff" crc="4036065031"/>
+    <file name="quattrocento-sans-v18-latin-700.eot" crc="4041127033"/>
+    <file name="quattrocento-sans-v18-latin-700.svg" crc="37883454"/>
+    <file name="quattrocento-sans-v18-latin-regular.woff" crc="4043142751"/>
+    <file name="quattrocento-sans-v18-latin-regular.eot" crc="4009701923"/>
+    <file name="quattrocento-sans-v18-latin-regular.svg" crc="4260363040"/>
+    <file name="quattrocento-sans-v18-latin-italic.woff" crc="266570084"/>
+    <file name="quattrocento-sans-v18-latin-italic.eot" crc="3857657557"/>
+    <file name="quattrocento-sans-v18-latin-italic.svg" crc="3991993710"/>
   </folder>
   <folder name="assets">
-    <file name="eula-gtcs.pdf" crc="4243063475" seo="true" mt="1607974396000"/>
+    <file name="eula-gtcs.pdf" crc="4243063475" seo="true" mt="1653928897000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -279,6 +289,9 @@
     </file>
     <file name="nemo-u5508-fr.jpg" crc="4073984132" ref="index"/>
     <file name="nemo-u5508-fr_2x.jpg" crc="142107794" ref="index"/>
+    <file name="toolbar-v3.png" crc="3865987050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="nemov2-04.png" crc="4252344287" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -309,6 +322,9 @@
     <file name="n_license_2x.png" crc="4291038920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="2018-09-26 - web-crop-u5667.jpg" crc="4077763888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u4430.png" crc="51491121" ref="index"/>
     <file name="u4430_2x.png" crc="3805954323" ref="index"/>
     <file name="u4430-r.png" crc="167199301" ref="index"/>
@@ -335,12 +351,6 @@
     <file name="u4450-m_2x.png" crc="54018364" ref="index"/>
     <file name="nemov2-01-u3565.png" crc="4124970799" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="178268843" ref="index"/>
-    <file name="2018-09-26 - web-crop-u5667.jpg" crc="4077763888" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="toolbar-v3.png" crc="3865987050" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4248835341" seo="true" mt="1641935295384" redirect="true"/>
+  <file name="index.html" crc="243001657" seo="true" mt="1667506897423" redirect="true"/>
 </manifest>
