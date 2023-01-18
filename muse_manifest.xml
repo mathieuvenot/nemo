@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1667506934716">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1674055761687">
   <folder name="css">
     <file name="site_global.css" crc="4273498017"/>
-    <file name="index.css" crc="4153030724" ref="index"/>
+    <file name="index.css" crc="3937763279" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="quattrocento-sans-v18-latin-700.woff" crc="4036065031"/>
@@ -29,6 +29,7 @@
     <file name="musewpslideshow.js" crc="244150766" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
     <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
@@ -182,10 +183,10 @@
     <file name="d-keel-u3725-fr_2x.png" crc="489384760" ref="index"/>
     <file name="d-keel-u3725-r-fr.jpg" crc="4232102477" ref="index"/>
     <file name="d-keel-u3725-r-fr_2x.jpg" crc="254830692" ref="index"/>
-    <file name="d-foil-u3739-fr.png" crc="4170980628" ref="index"/>
-    <file name="d-foil-u3739-fr_2x.png" crc="404512986" ref="index"/>
-    <file name="d-foil-u3739-r-fr.jpg" crc="4040842076" ref="index"/>
-    <file name="d-foil-u3739-r-fr_2x.jpg" crc="3951440537" ref="index"/>
+    <file name="1-linesplan-u3739-fr.png" crc="444208395" ref="index"/>
+    <file name="1-linesplan-u3739-fr_2x.png" crc="4109302606" ref="index"/>
+    <file name="1-linesplan-u3739-r-fr.jpg" crc="3996962894" ref="index"/>
+    <file name="1-linesplan-u3739-r-fr_2x.jpg" crc="4022393138" ref="index"/>
     <file name="d-propeller-u3745-fr.png" crc="4216258423" ref="index"/>
     <file name="d-propeller-u3745-fr_2x.png" crc="3882345322" ref="index"/>
     <file name="d-propeller-u3745-r-fr.jpg" crc="442491097" ref="index"/>
@@ -206,10 +207,10 @@
     <file name="5-weight-u5499-fr_2x.png" crc="337972259" ref="index"/>
     <file name="5-weight-u5499-r-fr.jpg" crc="4012203637" ref="index"/>
     <file name="5-weight-u5499-r-fr_2x.jpg" crc="421627010" ref="index"/>
-    <file name="nemo-u5505-fr.png" crc="4008400556" ref="index"/>
-    <file name="nemo-u5505-fr_2x.png" crc="146416687" ref="index"/>
-    <file name="nemo-u5505-r-fr.jpg" crc="3766667858" ref="index"/>
-    <file name="nemo-u5505-r-fr_2x.jpg" crc="185878047" ref="index"/>
+    <file name="nemo-u5505-fr.png" crc="403769982" ref="index"/>
+    <file name="nemo-u5505-fr_2x.png" crc="169760196" ref="index"/>
+    <file name="nemo-u5505-r-fr.jpg" crc="18026795" ref="index"/>
+    <file name="nemo-u5505-r-fr_2x.jpg" crc="4069004939" ref="index"/>
     <file name="nemo-1cover.jpg" crc="4070346493" ref="index"/>
     <file name="nemo-1cover_2x.jpg" crc="389416588" ref="index"/>
     <file name="nemo-2cover.jpg" crc="3915960935" ref="index"/>
@@ -255,10 +256,10 @@
     <file name="d-keel_2x.jpg" crc="176616528" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="d-foil.jpg" crc="502911031" ref="index">
+    <file name="1-linesplan.jpg" crc="132575896" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="d-foil_2x.jpg" crc="4270017623" ref="index">
+    <file name="1-linesplan_2x.jpg" crc="4032040701" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="d-propeller.jpg" crc="3791682686" ref="index"/>
@@ -287,9 +288,13 @@
     <file name="5-weight_2x.jpg" crc="3802592678" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nemo-u5508-fr.jpg" crc="4073984132" ref="index"/>
-    <file name="nemo-u5508-fr_2x.jpg" crc="142107794" ref="index"/>
-    <file name="toolbar-v3.png" crc="3865987050" seo="true" ref="index">
+    <file name="nemo.jpg" crc="3817558557" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nemo_2x.jpg" crc="39533630" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toolbar-v4.png" crc="202685393" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="nemov2-04.png" crc="4252344287" seo="true" ref="index">
@@ -310,19 +315,16 @@
     <file name="rh_2x.png" crc="42594538" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="l_generator.png" crc="4198101878" seo="true" ref="index">
+    <file name="l_generator.png" crc="4286529551" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="l_generator_2x.png" crc="4153811461" seo="true" ref="index">
+    <file name="l_generator_2x.png" crc="4205017564" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="n_license.png" crc="55413375" seo="true" ref="index">
+    <file name="n_license.png" crc="4276289807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="n_license_2x.png" crc="4291038920" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2018-09-26 - web-crop-u5667.jpg" crc="4077763888" seo="true" ref="index">
+    <file name="n_license_2x.png" crc="322094993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u4430.png" crc="51491121" ref="index"/>
@@ -337,20 +339,20 @@
     <file name="u4440-r_2x.png" crc="4084392244" ref="index"/>
     <file name="u4440-m.png" crc="3810991643" ref="index"/>
     <file name="u4440-m_2x.png" crc="101791340" ref="index"/>
-    <file name="u4460.png" crc="533826061" ref="index"/>
-    <file name="u4460_2x.png" crc="372844156" ref="index"/>
-    <file name="u4460-r.png" crc="286303034" ref="index"/>
-    <file name="u4460-r_2x.png" crc="175551953" ref="index"/>
-    <file name="u4460-m.png" crc="49523733" ref="index"/>
-    <file name="u4460-m_2x.png" crc="30621366" ref="index"/>
     <file name="u4450.png" crc="289624752" ref="index"/>
     <file name="u4450_2x.png" crc="4176918735" ref="index"/>
     <file name="u4450-r.png" crc="3979108597" ref="index"/>
     <file name="u4450-r_2x.png" crc="4285565450" ref="index"/>
     <file name="u4450-m.png" crc="207051844" ref="index"/>
     <file name="u4450-m_2x.png" crc="54018364" ref="index"/>
-    <file name="nemov2-01-u3565.png" crc="4124970799" ref="index"/>
-    <file name="nemov2-01-u3565_2x.png" crc="178268843" ref="index"/>
+    <file name="u4460.png" crc="533826061" ref="index"/>
+    <file name="u4460_2x.png" crc="372844156" ref="index"/>
+    <file name="u4460-r.png" crc="286303034" ref="index"/>
+    <file name="u4460-r_2x.png" crc="175551953" ref="index"/>
+    <file name="u4460-m.png" crc="49523733" ref="index"/>
+    <file name="u4460-m_2x.png" crc="30621366" ref="index"/>
+    <file name="nemov2-01-u3565.png" crc="94129516" ref="index"/>
+    <file name="nemov2-01-u3565_2x.png" crc="280834375" ref="index"/>
   </folder>
-  <file name="index.html" crc="243001657" seo="true" mt="1667506897423" redirect="true"/>
+  <file name="index.html" crc="276561951" seo="true" mt="1674055734041" redirect="true"/>
 </manifest>
