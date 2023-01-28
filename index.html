@@ -20,7 +20,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Nemo</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=512885779"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=70456638" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=250080170" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -418,7 +418,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <div class="TabbedPanelsContentGroup clearfix colelem" id="u6309"><!-- stack box -->
-      <div class="TabbedPanelsContent invi clearfix grpelem" id="u6310"><!-- group -->
+      <div class="TabbedPanelsContent clearfix grpelem" id="u6310"><!-- group -->
        <div class="clearfix grpelem" id="u6445-18"><!-- content -->
         <p id="u6445-2">Free</p>
         <p id="u6445-4">Designer</p>
@@ -450,7 +450,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <p id="u6446-16">Update 750€</p>
        </div>
       </div>
-      <div class="TabbedPanelsContent clearfix grpelem" id="u6318"><!-- group -->
+      <div class="TabbedPanelsContent invi clearfix grpelem" id="u6318"><!-- group -->
        <div class="clearfix grpelem" id="u6424-18"><!-- content -->
         <p id="u6424-2">Free</p>
         <p id="u6424-4">Designer</p>
@@ -678,9 +678,9 @@ Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized');
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu964', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:10000,transitionStyle:'fading',transitionDuration:1000,hideAllContentsFirst:false,triggersOnTop:false,shuffle:true,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu964 */
-Muse.Utils.initWidget('#tab-panelu6308', ['#bp_infinity'], function(elem) { return new WebPro.Widget.TabbedPanels(elem, {event:'click',defaultIndex:1}); });/* #tab-panelu6308 */
+Muse.Utils.initWidget('#tab-panelu6308', ['#bp_infinity'], function(elem) { return new WebPro.Widget.TabbedPanels(elem, {event:'click',defaultIndex:0}); });/* #tab-panelu6308 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u3565').registerOpacityScrollEffect([{"fade":395.7999999999993,"in":[-Infinity,5918.65],"opacity":0},{"in":[5918.65,5918.65],"opacity":50},{"fade":292.6999999999998,"in":[5918.65,Infinity],"opacity":100}]);/* scroll effect */
+$('#u3565').registerOpacityScrollEffect([{"fade":395.8,"in":[-Infinity,5918.65],"opacity":0},{"in":[5918.65,5918.65],"opacity":50},{"fade":292.7,"in":[5918.65,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
