@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1697113610435">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1701682191295">
   <folder name="css">
-    <file name="site_global.css" crc="512885779"/>
-    <file name="index.css" crc="4283447334" ref="index"/>
+    <file name="site_global.css" crc="131794694"/>
+    <file name="index.css" crc="439259897" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="quattrocento-sans-v18-latin-700.woff" crc="4036065031"/>
@@ -354,5 +354,5 @@
     <file name="nemov2-01-u3565.png" crc="94129516" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="280834375" ref="index"/>
   </folder>
-  <file name="index.html" crc="4228342296" seo="true" mt="1697113574081" redirect="true"/>
+  <file name="index.html" crc="3952429805" seo="true" mt="1701681968422" redirect="true"/>
 </manifest>
