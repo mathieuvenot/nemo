@@ -19,8 +19,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/nemo-favicon.ico?crc=318487338"/>
   <title>Nemo</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=131794694"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=439259897" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4273498017"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=421633483" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -89,16 +89,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="museBGSize hidpi_button unavailable grpelem" id="u1093"><!-- simple frame --></div>
      <a class="nonblock nontext anim_swing grpelem" id="u1182" href="index.html#about"><!-- state-based BG images --></a>
      <div class="gradient rounded-corners clearfix grpelem" id="u2603"><!-- group -->
-      <a class="nonblock nontext clip_frame grpelem" id="u5560" href="https://discourse.mcneel.com/c/grasshopper/nemo/148" target="_blank"><!-- image --><img class="block" id="u5560_img" src="images/discourse_logo_icon_145336%20-%20white.png?crc=3915096959" data-hidpi-src="images/discourse_logo_icon_145336%20-%20white_2x.png?crc=3950066396" alt="" width="26" height="26"/></a>
+      <a class="nonblock nontext clearfix grpelem" id="u6537-4" href="mailto:nemo@mathieuvenot.com" target="_blank"><!-- content --><p>@</p></a>
      </div>
      <div class="gradient rounded-corners clearfix grpelem" id="u5574"><!-- group -->
-      <a class="nonblock nontext clip_frame grpelem" id="u1143" href="https://www.facebook.com/NemoGhTools/" target="_blank"><!-- image --><img class="block" id="u1143_img" src="images/facebook%20white.png?crc=64451544" data-hidpi-src="images/facebook%20white_2x.png?crc=3992565989" alt="" width="33" height="26"/></a>
+      <a class="nonblock nontext clip_frame grpelem" id="u6582" href="https://www.food4rhino.com/app/nemo" target="_blank"><!-- image --><img class="block" id="u6582_img" src="images/logo_high_res_f4r.png?crc=3852070485" data-hidpi-src="images/logo_high_res_f4r_2x.png?crc=329442771" alt="" width="23" height="19"/></a>
      </div>
      <div class="gradient rounded-corners clearfix grpelem" id="u3531"><!-- group -->
-      <a class="nonblock nontext clip_frame grpelem" id="u1149" href="https://www.linkedin.com/company/nemoghtools/" target="_blank"><!-- image --><img class="block" id="u1149_img" src="images/linkedin%20white.png?crc=347631546" data-hidpi-src="images/linkedin%20white_2x.png?crc=4245691660" alt="" width="33" height="26"/></a>
+      <a class="nonblock nontext clip_frame clearfix grpelem" id="u1149" href="https://www.linkedin.com/company/nemoghtools/" target="_blank"><!-- image --><img class="position_content" id="u1149_img" src="images/linkedin%20white.png?crc=347631546" data-hidpi-src="images/linkedin%20white_2x.png?crc=4245691660" alt="" width="33" height="26"/></a>
      </div>
      <div class="gradient rounded-corners clearfix grpelem" id="u2606"><!-- group -->
-      <a class="nonblock nontext clip_frame grpelem" id="u1137" href="mailto:nemo@mathieuvenot.com" target="_blank"><!-- image --><img class="block" id="u1137_img" src="images/email%20white-crop-u1137.png?crc=431316584" data-hidpi-src="images/email%20white-crop-u1137_2x.png?crc=4038308238" alt="" width="33" height="27"/></a>
+      <a class="nonblock nontext clip_frame grpelem" id="u5560" href="https://discourse.mcneel.com/c/grasshopper/nemo/148" target="_blank"><!-- image --><img class="block" id="u5560_img" src="images/discourse_logo_icon_145336%20-%20white.png?crc=3915096959" data-hidpi-src="images/discourse_logo_icon_145336%20-%20white_2x.png?crc=3950066396" alt="" width="26" height="26"/></a>
      </div>
     </div>
     <div class="clearfix colelem" id="u606"><!-- column -->
@@ -686,7 +686,7 @@ Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(el
 Muse.Utils.initWidget('#pamphletu964', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:10000,transitionStyle:'fading',transitionDuration:1000,hideAllContentsFirst:false,triggersOnTop:false,shuffle:true,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:5000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu964 */
 Muse.Utils.initWidget('#tab-panelu6308', ['#bp_infinity'], function(elem) { return new WebPro.Widget.TabbedPanels(elem, {event:'click',defaultIndex:0}); });/* #tab-panelu6308 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u3565').registerOpacityScrollEffect([{"fade":395.7999999999993,"in":[-Infinity,5918.65],"opacity":0},{"in":[5918.65,5918.65],"opacity":50},{"fade":292.6999999999998,"in":[5918.65,Infinity],"opacity":100}]);/* scroll effect */
+$('#u3565').registerOpacityScrollEffect([{"in":[-Infinity,5918.65],"fade":395.8,"opacity":0},{"in":[5918.65,5918.65],"opacity":50},{"in":[5918.65,Infinity],"fade":292.7,"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

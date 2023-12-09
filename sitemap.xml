@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mathieuvenot.com/nemo/index.html</loc>
-    <lastmod>2023-12-04</lastmod>
+    <lastmod>2023-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,18 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/nemo/images/nemov2-01940x789_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mathieuvenot.com/nemo/images/facebook%20white.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mathieuvenot.com/nemo/images/facebook%20white_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mathieuvenot.com/nemo/images/email%20white-crop-u1137.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mathieuvenot.com/nemo/images/email%20white-crop-u1137_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/nemo/images/linkedin%20white.png</image:loc>
@@ -73,6 +61,12 @@
     </image:image>
     <image:image>
       <image:loc>http://mathieuvenot.com/nemo/images/n_license_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/nemo/images/logo_high_res_f4r.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mathieuvenot.com/nemo/images/logo_high_res_f4r_2x.png</image:loc>
     </image:image>
   </url>
   <url>

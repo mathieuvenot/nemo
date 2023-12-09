@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1701682191295">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mathieuvenot.com/nemo" resolutions="1x,2x" timestamp="1702120863671">
   <folder name="css">
-    <file name="site_global.css" crc="131794694"/>
-    <file name="index.css" crc="439259897" ref="index"/>
+    <file name="site_global.css" crc="4273498017"/>
+    <file name="index.css" crc="421633483" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="quattrocento-sans-v18-latin-700.woff" crc="4036065031"/>
@@ -62,18 +62,6 @@
     <file name="u1182-r_2x.png" crc="3779304589" ref="index"/>
     <file name="u1182-m.png" crc="3803192657" ref="index"/>
     <file name="u1182-m_2x.png" crc="43800046" ref="index"/>
-    <file name="facebook white.png" crc="64451544" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="facebook white_2x.png" crc="3992565989" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="email white-crop-u1137.png" crc="431316584" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="email white-crop-u1137_2x.png" crc="4038308238" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="linkedin white.png" crc="347631546" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -353,6 +341,12 @@
     <file name="u4460-m_2x.png" crc="30621366" ref="index"/>
     <file name="nemov2-01-u3565.png" crc="94129516" ref="index"/>
     <file name="nemov2-01-u3565_2x.png" crc="280834375" ref="index"/>
+    <file name="logo_high_res_f4r.png" crc="3852070485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_high_res_f4r_2x.png" crc="329442771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3952429805" seo="true" mt="1701681968422" redirect="true"/>
+  <file name="index.html" crc="3829540059" seo="true" mt="1702120748054" redirect="true"/>
 </manifest>
